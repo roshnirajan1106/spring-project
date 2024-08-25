@@ -7,3 +7,6 @@ To run the App from cmd line
 
 2. Qualifiers have higher priority then Primary
 3. When the application starts all beans are initialized and spring will create an instance of each and make them available
+
+4. lazy initialization - beans are not created until needed or called
+5. 
