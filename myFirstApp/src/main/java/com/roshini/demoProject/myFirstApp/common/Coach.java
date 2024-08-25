@@ -1,4 +1,4 @@
-package com.roshini.demoProject.myFirstApp;
+package com.roshini.demoProject.myFirstApp.common;
 
 
 public interface Coach{

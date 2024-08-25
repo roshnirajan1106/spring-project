@@ -1,8 +1,8 @@
-package com.roshini.demoProject.myFirstApp;
+package com.roshini.demoProject.myFirstApp.rest;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
-
+import com.roshini.demoProject.myFirstApp.common.Coach;
 
 @RestController
 public class DemoController {
